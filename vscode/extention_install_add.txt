@@ -1,0 +1,52 @@
+C/C++
+
+1_Bracket Pair Colorizer đổi tên màu của dấu ngoặc
+
+2_Dracular Official
+
+3_vscode-icons
+
+4_Bookmarks
+
+5_Code Spell Checker
+
+6_Live Server
+
+7_Auto Rename Tag
+
+8_Prettier
+
+9_ESLint
+
+10_Vim
+
+11_Settings Sync
+
+12_GitLens
+
+13_fontLigatures
+
+14_
+
+html/css
+1_Live Server chạy server html
+
+2_Auto Close Tag tự động đóng thẻ
+
+3_Auto Rename Tag tự động đổi tên thẻ
+
+4_Beautify tự động căn chỉnh mã cho đẹp
+
+5_Path Intellisense
+
+6_Material Icon Theme
+
+
+
+javascript
+
+1_ babel   hightline syntax
+
+
+
+

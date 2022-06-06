@@ -1,0 +1,22 @@
+Install 
+
+https://www.python.org/downloads/
+
+toturial:
+
+https://www.titv.vn/p/lap-trinh-python.html
+
+
+=====firebase:
+thư vien
+https://pypi.org/project/python-firebase/
+
+
+https://firebase.google.com/
+
+
+PyCharm
+install
+
+https://www.jetbrains.com/pycharm/download/
+

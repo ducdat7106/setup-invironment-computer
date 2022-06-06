@@ -1,0 +1,8 @@
+install:
+
+nodejs.org
+
+	- cài bản "...LST"
+
+- kiểm tra cài đặt thành cong chưa
+ + cmd  --> node -v

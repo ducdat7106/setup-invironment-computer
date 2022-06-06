@@ -1,0 +1,17 @@
+Download:
+
+https://www.arduino.cc/en/software
+
+
+Thay doi vi tri luu file hex:
+
+https://www.youtube.com/watch?v=31RSh0TxbsY
+
+
+esp32
+https://dl.espressif.com/dl/package_esp32_index.json
+
+esp8266
+http://arduino.esp8266.com/stable/package_esp8266com_index.json
+
+cách nhau bởi dấu phẩy: ","

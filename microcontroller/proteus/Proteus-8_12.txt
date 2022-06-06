@@ -1,0 +1,6 @@
+download:
+https://phanmem123.com/download-proteus/
+
+
+fix lỗi tự thoát khi sử dụng + led ko sáng khi chạy mô phỏng: 
+https://www.youtube.com/watch?v=ukvtzQPqRAk

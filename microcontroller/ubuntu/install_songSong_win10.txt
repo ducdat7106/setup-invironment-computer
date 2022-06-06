@@ -1,0 +1,10 @@
+1.
+https://rufus.ie/vi/
+
+2.
+https://ubuntu.com/download/desktop
+
+3.Tutorial
+https://www.youtube.com/watch?v=oZcvqfWf_ps
+
+boot option hp ---> F9
