@@ -1,0 +1,15 @@
+0_pycharm
+	+ Choose "Community"
+	
+	+ Command line basic
+		*alt + shift + f10 --> run programming
+		
+
+1_opencv
+ pip install opencv-contrib-python
+
+
+2_python
+
+virtualenv
+

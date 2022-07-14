@@ -24,7 +24,7 @@ C/C++
 
 12_GitLens
 
-13_fontLigatures
+13_font Ligatures
 
 14_
 
