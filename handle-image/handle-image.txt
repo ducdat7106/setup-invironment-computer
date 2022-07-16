@@ -1,15 +1,21 @@
-0_pycharm
-	+ Choose "Community"
+0_Pycharm
+	+ Choose "Community" when download to computer
 	
-	+ Command line basic
-		*alt + shift + f10 --> run programming
+	+ Quick shortcut basic
+		* Alt + Shift + F10 --> run any programming exist
+		* Shift + F10 --> run programming coding
 		
 
-1_opencv
- pip install opencv-contrib-python
-
-
-2_python
-
-virtualenv
+1_Install library opencv-python
+	pip install opencv-contrib-python
+	
+2-Install library face-recognition
+	+ Install Anaconda
+		https://www.anaconda.com/products/distribution#windows
+		
+	+ Install 'CMake'
+		pip install cmake
+		
+	+ Install library 'dlib' - library support for library face-recognition
+		pip install dlib
 
