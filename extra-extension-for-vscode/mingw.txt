@@ -1,2 +1,2 @@
-download:
+link download:
 https://filehippo.com/download_mingw_minimalist_gnu_for_windows/?ex=BB-2188.2
